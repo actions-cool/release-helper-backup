@@ -12,7 +12,7 @@
 
 **Special reminder:** Releases and tags are no longer being updated. Please use commits as a guide and check the changes in commits when updating.
 
-**Like:** `uses: actions-cool/release-helper@dcd7c203f7021878abd237fb4c1e6dfd5e39f8d9`
+**Like:** `uses: actions-cool/release-helper-backup@a04df78cd48267248fa46673d018e3569b036046`
 
 ### Example
 
